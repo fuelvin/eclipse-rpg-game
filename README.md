@@ -6,6 +6,8 @@ Development period: Dec. 2017 - Jun. 2018
 
 Added to Github on May 2022
 
+--
+
 INSTRUCTIONS
 
 Arrow keys or WASD to move.
