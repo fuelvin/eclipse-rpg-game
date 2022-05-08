@@ -4,7 +4,7 @@ Tile-based RPG game with turn-based fighting; created 100% using the Eclipse IDE
 
 --
 
-Development period: Dec. 2017 - Jun. 2018
+Developed from Dec. 2017 to Jun. 2018
 
 Added to Github May 2022
 
