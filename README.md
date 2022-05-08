@@ -8,7 +8,7 @@ Added to Github on May 2022
 
 <br/>
 INSTRUCTIONS
-
+<br/>
 Arrow keys or WASD to move.
 
 Space to attack/defend during the player/enemy turn.
