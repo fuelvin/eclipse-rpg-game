@@ -14,4 +14,4 @@ INSTRUCTIONS
 
 Arrow keys or WASD to move.
 
-Space to attack/defend during the player/enemy turn.
+Space to attack/defend during the player and enemy turn.
