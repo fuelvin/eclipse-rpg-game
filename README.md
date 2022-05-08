@@ -10,7 +10,7 @@ Added to Github May 2022
 
 --
 
-INSTRUCTIONS
+HOW TO PLAY
 
 Arrow keys or WASD to move.
 
